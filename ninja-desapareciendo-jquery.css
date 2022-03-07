@@ -1,0 +1,20 @@
+.conteiner {
+    width: 1220px;
+    height: 710px;
+    border: 2px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.conteiner img {
+    width: 300px;
+    display: inline-block;
+}
+
+.restore {
+    margin: 0px auto;
+    display: block;
+    text-align: center;
+}
